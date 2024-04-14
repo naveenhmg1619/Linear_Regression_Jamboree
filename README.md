@@ -4,6 +4,7 @@
 - About
 - Business Problem
 - Skills Used
+- Modules
 - Objective
 - Problems and Solutions
 - Machine Learning Model Details
@@ -23,7 +24,7 @@ The primary challenge lies in deciphering the intricate factors influencing grad
 - **Machine Learning**: Applied regression techniques to build predictive models.
 - **Model Evaluation**: Assessed model performance using various statistical metrics.
 
-## Modules Used
+## Modules
 - Pandas
 - NumPy
 - Matplotlib
