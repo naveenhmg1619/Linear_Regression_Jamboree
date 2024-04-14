@@ -23,6 +23,14 @@ The primary challenge lies in deciphering the intricate factors influencing grad
 - **Machine Learning**: Applied regression techniques to build predictive models.
 - **Model Evaluation**: Assessed model performance using various statistical metrics.
 
+## Modules Used
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Statsmodels
+- Scikit-learn
+
 ## Objective
 The goal is to construct a predictive Linear Regression model to estimate admission chances and to elucidate the significance and interrelations of various admission factors.
 
